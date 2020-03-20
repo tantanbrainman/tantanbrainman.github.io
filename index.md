@@ -13,5 +13,5 @@
 
 ---
 
-<div align="center">blah</div>
-<a href="https://tcdixon4.github.io/brains">bluh</a>
+<div align="center">Hello, and welcome.</div>
+
