@@ -14,4 +14,4 @@
 ---
 
 <div align="center">Hello, and welcome.</div>
-
+![The distinguished Pod](/images/distinguished_pod.jpg)
