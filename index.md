@@ -1,4 +1,4 @@
-<div align="justify">About Brains Sports Cats Stats</div>
+<div style="text-align: ="justify">About Brains Sports Cats Stats</div>
 
 ---
 
