@@ -1,4 +1,7 @@
-[About](https://tcdixon4.github.io/about)       [Brains](https://tcdixon4.github.io/brains)        [Sports](https://tcdixon4.github.io/sports)        [Cats](https://tcdixon4.github.io/cats)        [Stats](https://tcdixon4.github.io/stats)
+<a href="https://tcdixon4.github.io/about">About</a>
+<a href="https://tcdixon4.github.io/sports">Sports</a>
+<a href="https://tcdixon4.github.io/cats">Cats</a>
+<a href="https://tcdixon4.github.io/stats">Stats</a>
 
 
 ---
