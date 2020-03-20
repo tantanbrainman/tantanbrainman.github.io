@@ -8,6 +8,7 @@
   <a href="https://tcdixon4.github.io/cats">Cats</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tcdixon4.github.io/stats">Stats</a>
+  &nbsp;
 </p>
 
 ---
