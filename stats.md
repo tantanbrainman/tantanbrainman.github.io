@@ -14,4 +14,6 @@
 ---
 
 # Stats
+<a href="https://tcdixon4.github.io/the-riddler">The Riddler by FiveThirtyEight</a>
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tcdixon4/leet-code/blob/master/leetcode_week198.ipynb)
