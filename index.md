@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcdixon4.github.io/about">About</a>
+  <a href="https://tcdixon4.github.io/about">About Me</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tcdixon4.github.io/brains">Brains</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
