@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
 title: Tanner Chas Dixon
 description: A multi-dimensional nerd.
+baseurl: ""
+url: "https://tantanbrainman.github.io"
